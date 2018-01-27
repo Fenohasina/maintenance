@@ -1,0 +1,51 @@
+/* ===========================
+   Left Col
+   =========================== */
+.left_col {
+    background: #2A3F54
+}
+.nav-sm .hidden-small {
+    visibility: hidden
+}
+.nav-md .container.body .col-md-3.left_col {
+    min-height: 100%;
+    width: 230px;
+    padding: 0;
+    position: absolute;
+    display: -ms-flexbox;
+    display: flex;
+    z-index: 1
+}
+.nav-sm .container.body .col-md-3.left_col {
+    min-height: 100%;
+    width: 70px;
+    padding: 0;
+    z-index: 9999;
+    position: absolute
+}
+/**  MENU FIXED------------------------------------------  **/
+.nav-md .container.body .col-md-3.left_col.menu_fixed {
+    height: 100%;
+    position: fixed
+}
+.nav-sm .container.body .col-md-3.left_col.menu_fixed {
+    position: fixed;
+    height: 100%
+}
+/**  MCSB------------------------------------------  **/
+.left_col .mCSB_scrollTools {
+    width: 6px
+}
+.left_col .mCSB_dragger {
+    max-height: 400px !important
+}
+.nav-sm .container.body .col-md-3.left_col .mCSB_container,
+.nav-sm .container.body .col-md-3.left_col .mCustomScrollBox {
+    overflow: visible
+}
+
+
+
+
+
+

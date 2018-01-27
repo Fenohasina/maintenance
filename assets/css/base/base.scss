@@ -1,0 +1,163 @@
+/* ===========================
+   Base
+   =========================== */
+
+/**  WIDTH HEIGHT FENETRE------------------------------------------  **/
+html, body {
+	height:100%;
+}
+header {
+    width: 100%;
+}
+.full-width {
+	width:100%;
+}
+.full-height {
+	height:100%;
+}
+.fixed_height_320 {
+    height: 320px;
+}
+.fixed_height_390 {
+    height: 390px;
+}
+.fixed_height_200 {
+    height: 200px;
+}
+
+/**  ALIGN------------------------------------------  **/
+.al_center {
+    text-align: center;
+}
+
+/**  LINE------------------------------------------  **/
+.line_30 {
+    line-height: 30px;
+}
+
+/**  GLOBAL------------------------------------------  **/
+*,
+*:before,
+*:after {
+    box-sizing: border-box
+}
+body {
+    color: #73879C;
+    background: #2A3F54;
+    font-family: "Helvetica Neue", Roboto, Arial, "Droid Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1.471;
+}
+
+/**  H1------------------------------------------  **/
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h2 {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+/**  A------------------------------------------  **/
+a {
+    color: #5A738E;
+    text-decoration: none;
+}
+a:focus {
+    outline: none;
+}
+a,
+a:visited,
+a:focus,
+a:active,
+:visited,
+:focus,
+:active,
+.btn:focus,
+.btn:active:focus,
+.btn.active:focus,
+.btn.focus,
+.btn:active.focus,
+.btn.active.focus {
+    outline: 0
+}
+a:hover,
+a:focus {
+    text-decoration: none
+}
+
+/**  NAV A------------------------------------------  **/
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 13px 15px 12px;
+}
+.nav>li>a:hover,
+.nav>li>a:focus {
+    background-color: transparent;
+}
+
+/**  TEXTAREA------------------------------------------  **/
+textarea {
+    padding: 10px;
+    vertical-align: top;
+    width: 200px
+}
+textarea:focus {
+    outline-style: solid;
+    outline-width: 2px
+}
+
+/**  LEGEND------------------------------------------  **/
+legend {
+    font-size: 18px;
+    color: inherit;
+}
+legend {
+    padding-bottom: 7px;
+}
+
+/**  LIGNE SEPARATRICE------------------------------------------  **/
+.ln_solid {
+    border-top: 1px solid #e5e5e5;
+    color: #ffffff;
+    background-color: #ffffff;
+    height: 1px;
+    margin: 20px 0;
+}
+
+/**  ICONE ACTIVE (MENU)------------------------------------------  **/
+.active a span.fa {
+    text-align: right !important;
+    margin-right: 4px
+}
+
+/**  CLEAR------------------------------------------  **/
+.clearfix:after,
+form:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+.no-padding {
+    padding: 0 !important
+}
+.clear {
+    clear: both
+}
+.overflow_hidden {
+    overflow: hidden
+}
+.center-margin {
+    margin: 0 auto;
+    float: none !important
+}

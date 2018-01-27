@@ -1,0 +1,432 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"footer",
+				"bcompiler_write_exe_footer"
+			],
+			[
+				"index",
+				"index"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"con",
+				"construct\tCI - Class Constructor"
+			],
+			[
+				"sess",
+				"session_unset_userdata\tCI - Session - Removing Session Data"
+			],
+			[
+				"session",
+				"session_id"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"or",
+				"orcl"
+			],
+			[
+				"lo",
+				"localhost"
+			],
+			[
+				"access",
+				"access_log"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"ini",
+				"ini_set"
+			],
+			[
+				"MARS",
+				"MARS"
+			],
+			[
+				"Dé",
+				"Décret"
+			],
+			[
+				"to",
+				"toLowerCase"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"code",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Snippet: fe",
+				"Snippet: CI - Fetch Class"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"i",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"for",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"Snippet: html",
+				"Snippet: html"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 671.0,
+		"history":
+		[
+			"npm",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/wamp64/www/dgi/maintenance",
+		"/D/wamp64/www/dgi/maintenance/application",
+		"/D/wamp64/www/dgi/maintenance/application/views",
+		"/D/wamp64/www/dgi/maintenance/application/views/liste",
+		"/D/wamp64/www/dgi/maintenance/assets",
+		"/D/wamp64/www/dgi/maintenance/assets/js",
+		"/D/wamp64/www/dgi/maintenance/assets/js/custom"
+	],
+	"file_history":
+	[
+		"/D/wamp64/www/dgi/maintenance/application/controllers/Intervention.php",
+		"/D/wamp64/www/dgi/maintenance/application/views/intervention.php",
+		"/D/wamp64/www/dgi/maintenance/application/views/tab/intervention.php",
+		"/D/wamp64/www/dgi/maintenance/application/views/intervention - copie.php",
+		"/D/wamp64/www/dgi/maintenance/application/views/template/default_sidenavs.php",
+		"/D/wamp64/www/dgi/maintenance/application/views/template/default_topnavs.php",
+		"/D/wamp64/www/dgi/maintenance/application/views/template/gentelella.php",
+		"/D/wamp64/www/dgi/maintenance/application/views/demande.php",
+		"/D/wamp64/www/dgi/maintenance/application/views/liste/toutes.php",
+		"/D/wamp64/www/dgi/maintenance/application/controllers/Demande.php",
+		"/D/wamp64/www/dgi/maintenance/application/views/tab/dispatch.php",
+		"/D/wamp64/www/dgi/maintenance/application/views/tab/demande.php",
+		"/D/wamp64/www/dgi/maintenance/assets/js/custom/paneltoolbox.js",
+		"/D/wamp64/www/dgi/maintenance/assets/js/custom/unused/paneltoolbox.js",
+		"/D/wamp64/www/dgi/maintenance/assets/js/app.js",
+		"/D/wamp64/www/dgi/maintenance/assets/js/custom/datatables.js",
+		"/D/wamp64/www/dgi/maintenance/assets/js/custom/daterangepicker.js",
+		"/D/wamp64/www/dgi/maintenance/assets/js/custom/debounce.js",
+		"/D/wamp64/www/dgi/maintenance/assets/js/custom/_init.js",
+		"/D/wamp64/www/dgi/maintenance/application/views/template/simple.php",
+		"/D/wamp64/www/dgi/maintenance/assets/js/custom.js",
+		"/D/wamp64/www/dgi/maintenance/application/controllers/Liste.php",
+		"/D/wamp64/www/dgi/maintenance/application/controllers/perso.php",
+		"/D/wamp64/www/dgi/maintenance/application/controllers/demande.php",
+		"/D/wamp64/www/dgi/maintenance/application/controllers/home.php",
+		"/D/wamp64/www/dgi/maintenance/application/views/nouveau.php",
+		"/D/wamp64/www/dgi/maintenance/application/controllers/liste.php",
+		"/D/wamp64/www/dgi/maintenance/application/views/liste.php",
+		"/D/wamp64/www/dgi/maintenance/application/views/construction.php",
+		"/D/wamp64/www/dgi/maintenance/maintenance.sublime-project",
+		"/C/Users/ROG/Desktop/BM Hetra Phone.txt",
+		"/D/wamp64/www/dgi/grh/_temp/workflow.txt",
+		"/C/Users/ROG/Desktop/Todo.txt",
+		"/D/wamp64/www/dgi/sq/sq_v3/application/controllers/home.php",
+		"/D/wamp64/www/dgi/grh/application/views/plain_page.php",
+		"/D/wamp64/www/template/gentelella/production/pricing_tables.html",
+		"/D/wamp64/www/dgi/sq/sq_v3/application/views/ncu/ncu.php",
+		"/D/wamp64/www/template/gentelella/production/form.html",
+		"/D/wamp64/www/template/gentelella/production/general_elements.html",
+		"/D/wamp64/www/template/gentelella/production/form_validation.html",
+		"/D/wamp64/www/template/gentelella/build/css/custom.css",
+		"/D/wamp64/www/dgi/sq/sq_v3/assets/css/custom.css",
+		"/D/wamp64/www/template/gentelella/build/js/custom.js",
+		"/D/wamp64/www/dgi/sq/sq_v3/application/views/ncu/tab.php",
+		"/D/wamp64/www/template/gentelella/production/form_advanced.html",
+		"/D/wamp64/www/dgi/sq/sq_v3/application/views/dossiers/nouveau.php",
+		"/D/wamp64/www/template/gentelella/production/tables_dynamic.html",
+		"/D/wamp64/www/template/gentelella/production/tables.html",
+		"/D/wamp64/www/dgi/sq/sq_v3/application/views/liste/avis.php",
+		"/E/Sync/DGI/Autres/Mdp ssif.txt",
+		"/C/Users/ROG/Desktop/SQL Developper/maj table a partir distant_machine_lehibe_et_dge_6.sql",
+		"/E/Sync/DGI/SSIF/Chef de service/Projets/2016_11_30 - Insertion fiscale (GIZ)/Volet Front-office/Prix impression.txt",
+		"/C/Users/ROG/Desktop/Staff.txt",
+		"/E/Sync/DGI/Autres/Coordonnées/mail.txt",
+		"/D/wamp64/www/dgi/sq/sq_v3/assets/css/mystyle.css",
+		"/D/wamp64/www/dgi/sq/sq_v3/application/views/ncu/avis.php",
+		"/D/wamp64/www/dgi/sq/sq_v3/application/controllers/liste.php",
+		"/D/wamp64/www/dgi/sq/sq_v3/application/controllers/ncu.php",
+		"/D/wamp64/www/dgi/sq/sq_v3/application/views/dossiers/liste_date.php",
+		"/D/wamp64/www/dgi/sq/sq_v3/application/views/dossiers/liste_montant.php",
+		"/D/wamp64/www/dgi/sq/sq_v3/application/views/template/gentelella.php",
+		"/D/wamp64/www/dgi/sq/sq_v3/application/controllers/dossiers.php",
+		"/D/wamp64/www/dgi/sq/sq_v3/application/views/template/default_sidenavs.php",
+		"/D/wamp64/www/dgi/sq/sq_v3/application/views/template/default_topnavs.php",
+		"/E/Sync/DGI/SSIF/Chef de service/Travail ponctuel/2017_10_18 - Plan SAMIFIN/2017_10_18 - Samifin.txt",
+		"/C/Users/ROG/Desktop/Samifin.txt",
+		"/C/Users/ROG/Desktop/Rivo.txt",
+		"/D/wamp64/www/dgi/sq/sq_v3/application/config/routes.php",
+		"/D/wamp64/www/dgi/sq/sq_v3/application/config/autoload.php",
+		"/C/Users/ROG/Desktop/test.php",
+		"/D/wamp64/www/dgi/foncier/foncier_9/query/req_ajout.php",
+		"/D/wamp64/www/dgi/sq/sq_v2/class/_Ocidb.php",
+		"/D/wamp64/www/dgi/sq/sq_v3/application/libraries/Template.php",
+		"/D/wamp64/www/tuto/oc_ci/system/libraries/Session/SessionHandlerInterface.php",
+		"/D/wamp64/www/dgi/sq/sq_v3/application/controllers/example.php",
+		"/E/Sync/DGI/SSIF/Web/Hery Zo - Sandra/2017_02_21 - Suivi qualitatif des contrôles fiscaux (Hery Zo)/Sources/2017_04_03 - v1.1 - test/TEST_FORMATION_PASSWORD.txt",
+		"/E/Sync/DGI/SSIF/Web/Hery Zo - Sandra/2017_02_21 - Suivi qualitatif des contrôles fiscaux (Hery Zo)/Sources/2017_04_03 - v1.1 - test/NIF_TEST.txt",
+		"/C/Users/ROG/Desktop/Heritiana.txt",
+		"/E/Sync/Pitch/PitchTools/Warez/PhpStorm/Snippet/phpstorm-snippets-master/config/fileTemplates/includes/CI_Controller_header.php",
+		"/C/Users/ROG/.PhpStorm2016.1/config/colors/Monokai_Sublime.xml",
+		"/C/Users/ROG/.PhpStorm2016.1/config/colors/tonic.icls",
+		"/E/Documents/MEGAsync Downloads/CCleaner/CCleaner Professional  Business  Technician 5.34.6207_Trucnet.com/SERIAL.txt",
+		"/J/Logiciels/Prog Web/Editeur/PhpStorm/PhpStorm 2016.1.2/Crack/Licence.txt",
+		"/J/Logiciels/Prog Web/Editeur/PhpStorm/PhpStorm 2016.2.1/PhpStorm 2016.2.1 WIN/Read Me FIRST.txt",
+		"/E/textes/2017_04_03 - Login de test.txt",
+		"/D/_Just/Telma/sigtas/nifonline/export/Assujettissement_nifonline_230421.txt",
+		"/D/_Just/Telma/sigtas/nifonline/expaoro/bfv/Compte.txt",
+		"/C/TEMP/Rar$DIa0.014/Tiers.txt",
+		"/D/_Just/Telma/sigtas/dastock/file/318666-1_82_17-02-2016_config.txt",
+		"/C/Users/ROG/Desktop/Sys.txt",
+		"/C/Users/ROG/Desktop/insertion.txt",
+		"/D/wamp64/www/dgi/sq/sq_v3/composer.json",
+		"/D/wamp64/www/dgi/sq/sq_v3/readme.rst",
+		"/D/wamp64/www/dgi/sq/sq_v3/license.txt",
+		"/D/wamp64/www/dgi/sq/sq_v3/assets/js/custom.js",
+		"/D/wamp64/www/dgi/sq/sq_v3/application/views/home/index.php",
+		"/D/wamp64/www/dgi/sq/sq_v3/vendors/datatables.net/js/jquery.dataTables.js",
+		"/D/wamp64/www/dgi/sq/sq_v3/application/views/tes/form.php",
+		"/D/wamp64/www/dgi/sq/sq_v3/vendors/bootstrap-daterangepicker/daterangepicker.js",
+		"/D/wamp64/www/dgi/sq/sq_v3/vendors/bootstrap-daterangepicker/daterangepicker.css",
+		"/D/wamp64/alias/template.conf",
+		"/D/wamp64/www/dgi/sq/sq_v2/assets/css/bootstrap.css",
+		"/D/wamp64/www/dgi/sq/sq_v3/vendors/datatables.net-responsive-bs/css/responsive.bootstrap.min.css",
+		"/D/wamp64/www/dgi/sq/sq_v3/vendors/datatables.net-responsive-bs/css/responsive.bootstrap.css",
+		"/D/wamp64/www/dgi/sq/sq_v2/assets/css/style.css",
+		"/D/wamp64/www/dgi/sq/sq_v3/application/controllers/dossier.php",
+		"/D/wamp64/www/dgi/sq/sq_v3/assets/css/custom.min.css",
+		"/D/wamp64/www/dgi/sq/sq_v2/elements/content/lst_notif_prim.php",
+		"/D/wamp64/www/dgi/sq/sq_v2/pages/liste.php",
+		"/E/Sync/Pitch/PitchDoc/Projets/NTIC/Dodosata/2017_09_30 - Ecran, DD/2017_09_30 - Commande Dodosata.txt",
+		"/D/wamp64/www/dgi/sq/sq_v2/class/_Notification.php",
+		"/C/Users/ROG/Desktop/2017_09_14 - Hery Zo.txt",
+		"/D/wamp64/www/dgi/sq/sq_v2/class/dossier.php",
+		"/D/wamp64/www/dgi/sq/sq_v2/elements/content/liste.php",
+		"/D/wamp64/www/dgi/sq/sq_v2/elements/content/liste_montant.php",
+		"/D/wamp64/www/dgi/sq/sq_v2/class/_Liste.php",
+		"/C/Users/ROG/Desktop/Caisse.txt",
+		"/C/Users/ROG/Desktop/Annexe TVA.txt",
+		"/C/Users/ROG/Desktop/Herin.txt",
+		"/C/Users/ROG/Desktop/20e.txt",
+		"/C/Users/ROG/Desktop/20e_1.txt",
+		"/E/Sync/DGI/SSIF/Chef de service/Travail ponctuel/Nouveau dossier/Rafatro.txt",
+		"/D/wamp64/www/dgi/sq/sq_v2/debug.php",
+		"/C/Users/ROG/Desktop/Euloge.txt",
+		"/D/wamp64/www/dgi/sq/sq_v2/class/_Conf.php",
+		"/D/wamp64/www/dgi/sq/sq_v2/class/db.php",
+		"/D/wamp64/www/dgi/sq/sq_v2/core/upload_file.php",
+		"/D/wamp64/www/dgi/sq/sq_v2/core/add_control.php"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\t",
+			"000002\t28/01/2018\tCF 3\tOrdinateur\t00000010\tInfecté par des virus\tEn cours de réparation\t29/01/2018\t",
+			"\t",
+			"sidebar-widget",
+			".sidebar-widget",
+			"sidebar-widget",
+			".sidebar-widget",
+			"sidebar-widget",
+			"id=",
+			"<!"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			", ",
+			","
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "maintenance.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"modal_",
+				"textes\\css\\modal_ajout.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\wamp64\\www\\dgi\\sq\\sq_v2\\sq_v2.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

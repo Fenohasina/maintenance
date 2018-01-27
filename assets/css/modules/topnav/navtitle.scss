@@ -1,0 +1,16 @@
+/**  NAV TITLE------------------------------------------  **/
+.nav_title {
+    // width: 230px;
+    // width: 70%;
+    float: left;
+    // background: #2A3F54;
+    // border-radius: 0;
+    // height: 57px
+}
+// Ajout
+@media (max-width: 480px) {
+    .nav_title {
+    	width: 50%;
+       	float: left;
+    }
+}

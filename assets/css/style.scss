@@ -1,0 +1,73 @@
+/*
+ * Inspired by SMACSS http://smacss.com
+ * Author: @Fenohasina
+ * Date: 27 Octobre 2017
+ *
+ * Coding rules : https://github.com/necolas/idiomatic-css
+ *
+ */
+
+/* Tools */
+// @import "tools/functions";
+// @import "tools/site-settings";
+// @import "tools/mixins";
+// @import "tools/helpers";
+
+/* Base */
+@import "base/base";
+@import "base/color";
+// @import "base/form";
+
+/* Fonts */
+//@import "fonts/...";
+
+/* Layout */
+@import "layout/l-container";
+@import "layout/l-topnav";
+@import "layout/l-leftcol";
+@import "layout/l-rightcol";
+@import "layout/l-pagetitle";
+@import "layout/l-xpanel";
+@import "layout/l-footer";
+
+// @import "layout/constrained";
+
+/* Modules */
+/* Modules TOPNAV*/
+@import "modules/topnav/toggle";
+@import "modules/topnav/navtitle";
+@import "modules/topnav/navbar-right";
+@import "modules/topnav/userprofile";
+
+/* Modules FOOTER*/
+@import "modules/footer/sidebarfooter";
+
+/* Modules LEFTCOL*/
+@import "modules/leftcol/sitetitle";
+@import "modules/leftcol/profile";
+@import "modules/leftcol/sidebarmenu";
+
+/* Modules CONTENT*/
+@import "modules/content/xpanel";
+@import "modules/content/table";
+@import "modules/content/form";
+
+/* Modules AUTRES*/
+@import "modules/home";
+@import "modules/fontawesome";
+@import "modules/button";
+@import "modules/glyphicons";
+@import "modules/datatables";
+@import "modules/daterangepicker";
+@import "modules/tab";
+@import "modules/nprogress";
+@import "modules/pricing";
+
+
+//@import "modules/animations";
+
+/* ===========================
+   X-PANEL
+   =========================== */
+
+/**  NAVBAR RIGHT------------------------------------------  **/   

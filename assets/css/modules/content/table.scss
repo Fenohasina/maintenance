@@ -1,0 +1,90 @@
+/* ===========================
+   TABLE
+   =========================== */
+
+/**  GLOBAL------------------------------------------  **/   
+td span {
+    line-height: 28px
+}
+
+/**  FOOT------------------------------------------  **/  
+tfoot input {
+    margin: 0.5em 0;
+    width: 100%;
+    color: #444
+}
+tfoot input.search_init {
+    color: #999
+}
+
+/**  TABLE DISPLAY------------------------------------------  **/
+table.display {
+    margin: 0 auto;
+    clear: both;
+    width: 100%
+}
+table.display thead th:active,
+table.display thead td:active {
+    outline: none
+}
+table.display thead th {
+    padding: 8px 18px 8px 10px;
+    border-bottom: 1px solid black;
+    font-weight: bold;
+    cursor: pointer
+}
+table.display tr.heading2 td {
+    border-bottom: 1px solid #aaa
+}
+table.display tr.even.row_selected td {
+    background-color: #B0BED9
+}
+table.display tr.odd.row_selected td {
+    background-color: #9FAFD1
+}
+table.display td {
+    padding: 3px 10px
+}
+table.display td.center {
+    text-align: center
+}
+table.display tfoot th {
+    padding: 3px 18px 3px 10px;
+    border-top: 1px solid black;
+    font-weight: bold
+}
+
+/**  GROUP------------------------------------------  **/ 
+td.group {
+    background-color: #d1cfd0;
+    border-bottom: 2px solid #A19B9E;
+    border-top: 2px solid #A19B9E
+}
+
+/**  DETAILS------------------------------------------  **/ 
+td.details {
+    background-color: #d1cfd0;
+    border: 2px solid #A19B9E
+}
+
+/**  JAMBO------------------------------------------  **/  
+table.jambo_table {
+    border: 1px solid rgba(221, 221, 221, 0.78);
+}
+table.jambo_table thead {
+    background: rgba(52, 73, 94, 0.94);
+    color: #ECF0F1
+}
+table.jambo_table tbody tr:hover td {
+    background: rgba(38, 185, 154, 0.07);
+    border-top: 1px solid rgba(38, 185, 154, 0.11);
+    border-bottom: 1px solid rgba(38, 185, 154, 0.11)
+}
+table.jambo_table tbody tr.selected {
+    background: rgba(38, 185, 154, 0.16)
+}
+table.jambo_table tbody tr.selected td {
+    border-top: 1px solid rgba(38, 185, 154, 0.4);
+    border-bottom: 1px solid rgba(38, 185, 154, 0.4)
+}
+

@@ -1,0 +1,29 @@
+/* ===========================
+   Page title
+   =========================== */
+
+.page-title {
+    width: 100%;
+    height: 65px;
+    padding: 10px 0
+}
+
+/**  Title Left------------------------------------------  **/
+.page-title .title_left {
+    /*width: 45%;*/
+    float: left;
+    display: block
+}
+.page-title .title_left h3 {
+    margin: 9px 0
+}
+
+/**  Title right------------------------------------------  **/
+.page-title .title_right {
+    width: 55%;
+    float: left;
+    display: block
+}
+.page-title .title_right .pull-right {
+    margin: 10px 0
+} 
