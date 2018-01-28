@@ -18,25 +18,17 @@ function init_daterangepicker_single_call() {
 		}
 	};
 
-	$('#cin_du').daterangepicker(optionSet, 
+	$('#date_demande').daterangepicker(optionSet,
 		function(start, end, label) {
 			// console.log(start.toISOString(), end.toISOString(), label);
 		});
-	$('#duplicata_du').daterangepicker(optionSet, 
-		function(start, end, label) {
-			// console.log(start.toISOString(), end.toISOString(), label);
-		});
-	$('#date_naissance').daterangepicker(optionSet, 
-		function(start, end, label) {
-			// console.log(start.toISOString(), end.toISOString(), label);
-		});
-	$('#aff_debut').daterangepicker(optionSet, 
-		function(start, end, label) {
-			// console.log(start.toISOString(), end.toISOString(), label);
-		});
-	$('#aff_fin').daterangepicker(optionSet, 
-		function(start, end, label) {
-			// console.log(start.toISOString(), end.toISOString(), label);
-		});	
+    $('#date_dispatch').daterangepicker(optionSet,
+        function(start, end, label) {
+            // console.log(start.toISOString(), end.toISOString(), label);
+        });
+    $('#date_validation').daterangepicker(optionSet,
+        function(start, end, label) {
+            // console.log(start.toISOString(), end.toISOString(), label);
+        });
 
 }

@@ -125,6 +125,7 @@
 		<script src="<?php echo base_url('assets/js/custom/paneltoolbox.js') ?>"></script>
 		<script src="<?php echo base_url('assets/js/custom/datatables.js') ?>"></script>
 		<script src="<?php echo base_url('assets/js/custom/daterangepicker.js') ?>"></script>
+		<script src="<?php echo base_url('assets/js/custom/switchery.js') ?>"></script>
 		<script src="<?php echo base_url('assets/js/app.js') ?>"></script>
 		<!-- /Import Javascript -->
 	</body>

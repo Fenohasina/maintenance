@@ -12,20 +12,20 @@
 		<div class="row">
 			<div class="col-md-4">
 				<div class="description">
-					<a href="<?php echo base_url('nouveau') ?>">
-						<h1>Ajout</h1>
+					<a href="<?php echo base_url('demande') ?>">
+						<h1>Demande</h1>
 						<span class="description-icons glyphicon glyphicon-user"></span>
 					</a>
-					<p>Ajouter un agent dans la base de données du personnel.</p>            
+					<p>Demander une assistance technique pour une réparation logicielle ou matérielle informatique.</p>            
 				</div>
 			</div>
 			<div class="col-md-4">
 				<div class="description">
-					<a href="<?php echo base_url('liste') ?>">
+					<a href="<?php echo base_url('liste/toutes') ?>">
 						<h1>Liste</h1>
 						<span class="description-icons glyphicon glyphicon-qrcode"></span>
 					</a>
-					<p>Liste et gestion des informations individuelles du personnel.</p>
+					<p>Liste des interventions faites auprès des demandeurs.</p>
 				</div>
 			</div>
 			<div class="col-md-4">
@@ -34,7 +34,7 @@
 						<h1>Tableau de bord</h1>
 						<span class="description-icons glyphicon glyphicon-signal"></span>
 					</a>
-					<p>Tableau de bord de la gestion du personnel.</p>
+					<p>Tableau de bord de la gestion des interventions.</p>
 				</div>
 			</div> 			  
 		</div>

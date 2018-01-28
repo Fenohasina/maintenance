@@ -23,7 +23,6 @@
 						<ul class="nav child_menu">
 							<li><a href="<?php echo base_url('home') ?>">Index</a></li>
 							<li><a href="<?php echo base_url('construction') ?>">Tableau de bord<span class="label label-success pull-right">En construction</span></a></li>
-							<li><a href="<?php echo base_url('construction') ?>">Statistique<span class="label label-success pull-right">En construction</span></a></li>
 						</ul>
 					</li>
 					<li>
@@ -35,13 +34,21 @@
 					<li><a><i class="fa fa-list"></i>Liste des interventions<span class="fa fa-chevron-down"></span></a>
                         <ul class="nav child_menu">
                             <li><a href="<?php echo base_url('liste/toutes') ?>">Liste de toutes les interventions</a></li>
-                            <li><a href="<?php echo base_url('liste/agents') ?>">Liste par agents</a></li>
-                            <li><a href="<?php echo base_url('liste/services') ?>">Liste par services</a></li>
+                            <li><a href="<?php echo base_url('liste/agents') ?>">Liste par agents<span class="label label-success pull-right">En construction</span></a></li>
+                            <li><a href="<?php echo base_url('liste/services') ?>">Liste par services<span class="label label-success pull-right">En construction</span></a></li>
                         </ul>
 					</li>
-					<li><a><i class="fa fa-gear"></i> Espace privée <span class="fa fa-chevron-down"></span></a>
+					<li><a><i class="fa fa-gear"></i> Calendrier <span class="label label-success pull-right">En construction</span></a>
+					<li><a><i class="fa fa-list"></i>Inventaire des matériels<span class="fa fa-chevron-down"></span></a>
+                        <ul class="nav child_menu">
+                            <li><a href="<?php echo base_url('construction') ?>">Ajout<span class="label label-success pull-right">En construction</span></a></li>
+                            <li><a href="<?php echo base_url('construction') ?>">Liste des matériels<span class="label label-success pull-right">En construction</span></a></li>
+                        </ul>
+					</li>
+					<li><a><i class="fa fa-gear"></i> Statistique <span class="label label-success pull-right">En construction</span></a>					
+					<li><a href="<?php echo base_url('construction') ?>"><i class="fa fa-gear"></i> Paramétrage <span class="fa fa-chevron-down"></span></a>
 						<ul class="nav child_menu">	
-							<li><a href="<?php echo base_url('construction') ?>">Profil<span class="label label-success pull-right">En construction</span></a></li>
+							<li><a href="<?php echo base_url('construction') ?>">Agents<span class="label label-success pull-right">En construction</span></a></li>
 							<li><a href="<?php echo base_url('construction') ?>">...<span class="label label-success pull-right">En construction</span></a></li>
 						</ul>
 					</li>

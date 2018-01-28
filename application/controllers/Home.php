@@ -1,7 +1,5 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed');
-/**
-* This is Example Controller
-*/
+
 class Home extends CI_Controller
 {
 	
